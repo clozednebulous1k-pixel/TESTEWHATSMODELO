@@ -17,6 +17,7 @@ Abra [http://localhost:8080](http://localhost:8080).
 - `index.html` — página principal
 - `styles.css` — estilos
 - `script.js` — interação (menu, carrossel, WhatsApp)
-- `assets/logo.png` — identidade visual no cabeçalho e rodapé
+- `assets/favicon.svg` / `favicon-32.png` — ícone da aba (letra **E**)
+- Marca no site: texto **ÉLITE** (Cormorant Garamond) no cabeçalho e rodapé
 
 As fotos de conteúdo vêm do [Unsplash](https://unsplash.com) com parâmetros `auto=format` e `fit=crop` para carregamento confiável.
